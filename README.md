@@ -3,6 +3,6 @@
 
 ## I am currently working on [Jimni Linux](https://github.com/jimnilinux/)
 
-A linux distribution built for students !! check it out !!
+## A linux distribution built for students !! check it out !!
 
 https://github.com/jimnilinux/
