@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=annie-n3)
 
-## I am currently working on [JimniOS](https://github.com/jimnios/)
+## I am currently working on [Codeforkers](https://github.com/codeforkers/)
 
-## A linux distribution built for students based on Arch Linux !! check it out !!
+## An awesome and helping community of coders ! go and check it out 
 
 https://github.com/jimniOS/
